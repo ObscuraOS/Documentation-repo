@@ -60,10 +60,10 @@ Key principles:
 
 ## Quick Links
 
-- **Live Application**: [app.obscura.io](https://app.obscura.io)
-- **SDK Repository**: [github.com/obscura-os/sdk](https://github.com/obscura-os/sdk)
-- **Discord**: [discord.gg/obscura](https://discord.gg/obscura)
-- **Twitter/X**: [@ObscuraOS](https://twitter.com/ObscuraOS)
+- **Live Application**: [app.obscura.io](https://app.obscuraos.xyz
+- **SDK Repository**: [github.com/obscura-os/sdk](https://github.com/obscura-os-sdk)
+- **Discord**: [discord.gg/obscura](https://discord.gg)
+- **Twitter/X**: [@ObscuraOS](https://twitter.com/Obscura_OS)
 
 ---
 
